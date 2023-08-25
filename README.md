@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agha Hamza</h1>
 <h3 align="center">Web Developer | Frontend Developer</h3>
 
-<img style="border-radius: 20px; width: 100%;" align="left" alt="courage the dog coding" src="https://i.pinimg.com/originals/c4/d2/5d/c4d25d156675933ab63679f4952fd222.gif"  />
+<img style="border-radius: 20px; width: 100vw;" align="left" alt="courage the dog coding" src="https://i.pinimg.com/originals/c4/d2/5d/c4d25d156675933ab63679f4952fd222.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aghahamza-o16labs&label=Profile%20views&color=0e75b6&style=flat" alt="aghahamza-o16labs" /> </p>
 
